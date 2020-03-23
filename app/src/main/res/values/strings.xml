@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BDTest</string>
+    <string name="txtTitleForm">Alta de estudiante</string>
+    <string name="txtGetAll">Estudiantes registrados</string>
+    <string name="txtGetOne">Detalle de estudiantes</string>
+    <string name="txtDelete">Eliminar estudiante</string>
+    <string name="txtEdit">Editar estudiante</string>
+    <string name="txtName">Nombre</string>
+    <string name="txvStudentRegister">REGISTRO DE ESTUDIANTE</string>
+    <string name="txtLastname">Apellido</string>
+    <string name="btnSave">GUARDAR</string>
+    <string name="txtID">ID</string>
+    <string name="txtNameEdt">Nombre</string>
+    <string name="txtPersonLastname">Apellido</string>
+    <string name="txtBirthay">Fecha de nacimiento</string>
+    <string name="txtBirthday">Fecha de nacimiento</string>
+    <string name="txtBirthdayEdit">Fecha de nacimiento</string>
+    <string name="Gender">Género</string>
+    <string name="txtGender">Género</string>
+</resources>

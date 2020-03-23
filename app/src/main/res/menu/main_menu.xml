@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itmForm"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/txtTitleForm"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmGetAll"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/txtGetAll"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmGetOne"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/txtGetOne"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmDelete"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/txtDelete"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmEdit"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/txtEdit"
+        app:showAsAction="never"/>
+
+</menu>
